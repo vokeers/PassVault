@@ -1,0 +1,35 @@
+﻿# Local build output
+dist/
+release/
+.tools/
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.zip
+*.tmp
+
+# Vault data and backups - never commit
+vault.pvault
+vault.pvault.bak
+vault.pvault.tmp
+*.pvault
+*.pvault.bak
+*.pvault.tmp
+
+# Local test / preview artifacts
+.uitest/
+.preview/
+.ziptest/
+.actiontest/
+.toolcheck/
+selftest-result.txt
+
+# IDE and OS files
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
