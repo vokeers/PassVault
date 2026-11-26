@@ -1,5 +1,7 @@
 ﻿# PassVault 1.3.0
 
+[GitHub 仓库](https://github.com/vokeers/PassVault) · [下载最新版本](https://github.com/vokeers/PassVault/releases/latest)
+
 Windows 10/11 x64 下免安装的本地加密密码库，采用参考 Apple 风格的浅色界面：白色圆角卡片、表格化账号列表、蓝色操作按钮和圆角输入框。
 
 ![PassVault 主界面](docs/screenshots/main.png)
